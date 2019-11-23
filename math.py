@@ -1,3 +1,3 @@
 def sqr(n):
-    return n**2
+    return n*n #updated
 
